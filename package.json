@@ -1,23 +1,22 @@
 {
-  "name": "cra-template",
+  "name": "cra-template-simple",
   "version": "1.0.3",
   "keywords": [
     "react",
     "create-react-app",
     "template"
   ],
-  "description": "The base template for Create React App.",
+  "description": "The simple template for Create React App.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/facebook/create-react-app.git",
-    "directory": "packages/cra-template"
+    "url": "https://github.com/smashdevcode/cra-template-simple"
   },
   "license": "MIT",
   "engines": {
     "node": ">=8"
   },
   "bugs": {
-    "url": "https://github.com/facebook/create-react-app/issues"
+    "url": "https://github.com/smashdevcode/cra-template-simple/issues"
   },
   "files": [
     "template",
