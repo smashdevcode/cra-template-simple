@@ -1,6 +1,6 @@
 {
-  "name": "cra-template-simple",
-  "version": "1.0.3",
+  "name": "@smashdev/cra-template-simple",
+  "version": "1.0.0",
   "keywords": [
     "react",
     "create-react-app",
