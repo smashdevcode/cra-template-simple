@@ -1,12 +1,16 @@
 {
   "name": "@smashdev/cra-template-simple",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "keywords": [
     "react",
     "create-react-app",
     "template"
   ],
   "description": "The simple template for Create React App.",
+  "main": "template.json",
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/smashdevcode/cra-template-simple"
